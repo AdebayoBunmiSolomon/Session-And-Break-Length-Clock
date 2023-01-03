@@ -1,0 +1,16 @@
+/** @format */
+
+body {
+  background-color: white;
+}
+
+#session-value-container {
+  border: solid 1px cornflowerblue;
+  width: 35%;
+  border-radius: 10px;
+  margin-top: 10%;
+}
+
+#main-page {
+  margin-top: 10%;
+}
