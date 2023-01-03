@@ -36,6 +36,7 @@ function MainPage() {
       //Nothing should happen
     } else {
       setBreakLengthValue(initialBreakLengthValue - 1);
+      //Added a new comment
     }
   };
 
